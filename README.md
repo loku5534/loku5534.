@@ -1,5 +1,4 @@
-# loku5534.
-My Personal Repository 
+
 <h1 align="center">Hi 👋, I'm imran Farhat</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 

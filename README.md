@@ -1,5 +1,13 @@
 # 💫 About Me:
-i am working software engineer using technology MERN STACK Developer at Quality Resource Group
+My name is Imran Farhat, and I am a MERN Stack Developer with over 4 years of professional experience in designing, developing, and deploying scalable web applications. I hold a Bachelor of Science in Computer Science from Government College University, Faisalabad.
+
+Currently, I am working Sr Software Enineer at Quality Resource Pvt. Ltd., where I am responsible for developing RESTful APIs, building React.js-based admin panels, and implementing state management for efficient application performance. I have hands-on experience with real-time features using Socket.io, JWT-based authentication, and payment gateway integrations such as PayPal and Stripe. I am also involved in cloud deployment using AWS, Vercel, Google Cloude, Azure and Heroku, and in designing and managing databases using MongoDB, Firebase, and MySQL.
+
+Previously, I worked at ERS Technology, where I developed web applications using Node.js, implemented JWT authentication, handled backend and database management, and deployed applications on cloud platforms.
+
+I have worked on multiple real-world projects, including Total Home App, DeltaF Mortgage, and Liftech App, which involved features like real-time tracking, notifications, loan calculations, and admin-controlled systems.
+
+I am a self-motivated, hardworking developer with strong problem-solving skills and a passion for learning new technologies. I am eager to contribute my technical expertise, follow best development practices, and deliver high-quality solutions that add value to the organization.
 
 
 ## 🌐 Socials:
